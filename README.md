@@ -9,7 +9,8 @@ The Q&A Hub is a simple React application that allows users to browse and naviga
   - [Prerequisites](#prerequisites)
   - [Live Demo](#live-demo)
   - [Contributing](#contributing)
-  - [Contact Information](#contact-information)
+  - [Contributing](#contributing-1)
+  - [Contact Me](#contact-me)
 
 ## Features
 
@@ -40,10 +41,15 @@ Contributions are welcome! If you'd like to contribute to the FAQ App, please fo
 
 Please ensure your code follows best practices and is well-documented.
 
-## Contact Information
+## Contributing
 
-If you have any questions or need assistance, you can reach out to the project author:
+Feel free to contribute to this project. If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
 
-- Email: [Adham Nasser](mailto:adhamxiii@gmail.com)
-- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adham-nasser-xiii/)
-- GitHub: [Adham Nasser](https://github.com/Adham-XIII)
+## Contact Me
+
+If you have any questions or suggestions, feel free to contact me:
+
+- GitHub: [Adham Nasser](https://github.com/Adhamxiii)
+- Linkedin: [Adham Nasser](https://www.linkedin.com/in/adhamnasser/)
+
+Happy coding!🚀
